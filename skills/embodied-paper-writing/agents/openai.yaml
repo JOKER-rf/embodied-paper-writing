@@ -1,0 +1,4 @@
+interface:
+  display_name: "具身智能顶会顶刊论文写作"
+  short_description: "基于证据组织论文叙事，支持具身智能顶会顶刊的构思、撰写、改稿与审稿回复"
+  default_prompt: "请使用 $embodied-paper-writing，基于我提供的研究材料和目标会议，建立论点与证据的对应关系并完成论文撰写或修改。"
